@@ -4,7 +4,7 @@ Adaptive page for Tasty Coockery with slick slider and validate form
 * Адаптивно сверстанная страница для компании Программный Регион
 * Slick slider
 * Валидация формы
-* Интерактивная версия страницы тут lisofsky023.github.io/program-region/
+* Интерактивная версия страницы тут https://lisofsky023.github.io/program-region/
 
 # Install instruction
 
